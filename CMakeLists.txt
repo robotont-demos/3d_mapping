@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(mapping_3d)
+project(demo_mapping_3d)
 
 find_package(catkin REQUIRED COMPONENTS
   robotont_msgs
