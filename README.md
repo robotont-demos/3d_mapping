@@ -14,11 +14,11 @@ sudo apt install ros-noetic-rtabmap-ros
 ## Launching the demo
 **On Robotont on-board computer**, launch 3d_mapping.launch<br/>
 ```bash
-roslaunch mapping_3d 3d_mapping.launch
+roslaunch demo_mapping_3d 3d_mapping.launch
 ```
 
 **On PC**, launch 3d_mapping_display.launch to visualize the result<br/>
 
 ```bash
-roslaunch mapping_3d 3d_mapping_display.launch
+roslaunch demo_mapping_3d 3d_mapping_display.launch
 ```
